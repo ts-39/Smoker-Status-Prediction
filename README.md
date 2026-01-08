@@ -204,5 +204,3 @@ ensemble_prediction =
 - scikit-learn
 - NumPy / pandas
 ```
-
----
