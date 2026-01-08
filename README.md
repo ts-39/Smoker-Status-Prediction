@@ -157,7 +157,6 @@ The final prediction is a **simple average of five models**:
 
 ensemble_prediction =
 (pred_lgb
-
 * pred_lgb_safe
 * pred_tabnet
 * pred_xgb
